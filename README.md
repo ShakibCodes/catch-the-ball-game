@@ -11,7 +11,7 @@ Catch The Ball is a simple and engaging game built using Python and Tkinter. The
 
 ## Screenshots
 ![Game Screenshot](image/gameplay.png)
-
+![Game Screenshot](image/game-over.png)
 
 ## How to Play
 1. Use the **Left Arrow** and **Right Arrow** keys to move the paddle.
