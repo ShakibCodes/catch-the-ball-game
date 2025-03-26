@@ -10,8 +10,7 @@ Catch The Ball is a simple and engaging game built using Python and Tkinter. The
 - Restart option after game over
 
 ## Screenshots
-![Game Screenshot](![Game Screenshot](https://raw.githubusercontent.com/ShakibCodes/catch-the-ball-game/main/image/gameplay.png)
-)
+![Game Screenshot](image/gameplay.png)
 
 
 ## How to Play
